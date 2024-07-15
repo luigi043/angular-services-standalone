@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/41887908-9642-4e8d-815c-9fea53b1bcbc)
+
 # AngularServicesStandalone
 
 A demo app for use with Pluralsight's Angular Services course.
